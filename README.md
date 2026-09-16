@@ -158,6 +158,8 @@ E-Commerce-SQL-Analytics/
 ├── screenshots/
 │
 └── README.md
+```text
+
 ## Key Business Insights
 
 The analysis focuses on identifying:
@@ -172,6 +174,17 @@ The analysis focuses on identifying:
 - Delivery efficiency
 - Monthly sales trends
 - Revenue concentration
+
+## Key Findings
+
+- Generated **R$15.84M** in total sales across **98,666 orders with order items**.
+- Average order value was approximately **R$160.58**.
+- **São Paulo (SP)** generated approximately **R$5.92M** in sales.
+- **Health & Beauty** generated approximately **R$1.44M** in sales.
+- **96.88%** of customers were one-time buyers, while **3.12%** were repeat customers.
+- Credit card payments accounted for approximately **R$12.54M** in payment value.
+- **91.89%** of delivered orders arrived on or before the estimated delivery date.
+- **77.07%** of customer reviews were rated **4 or 5 stars**.
 
 ## SQL Files
 
